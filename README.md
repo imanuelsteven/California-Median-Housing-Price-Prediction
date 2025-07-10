@@ -57,7 +57,7 @@ The dataset used is the California Housing Prices dataset from the 1990 Californ
 
 ## Conclusion and Future Improvements
 
-The project successfully developed a Random Forest model for predicting California housing prices, achieving an R² of 0.7948 and an RMSE of \$51,720.04 on the test set.
+The project successfully developed a Random Forest model for predicting California housing prices, achieving an `R² of 0.7948` and an `RMSE of \$51,720.04` on the test set.
 
 **Potential areas for future improvement include:**
 
